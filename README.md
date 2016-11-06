@@ -16,25 +16,25 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
   + Implementirala sam 4 html forme
   + Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama
 - Lista fajlova: 
-+ HTML folder sadrži html stranice: 
+  + HTML folder sadrži html stranice: 
      ~ naslovna.html, 
      ~ o_nama.html,
      ~ kuhinje.html, 
      ~ trpezarija.html, 
      ~ sobe.html i 
      ~ kontakt.html.
- + CSS folder sadrži css stranice:
+  + CSS folder sadrži css stranice:
     ~ pozadina.css(pozadina prva za određene stranice)
     ~ pozadina1.css (pozadina druga za određene stranice) i
      ~ stranica.css (css primjenjen na sve html stranice).
-+ Mockup folder sadrži skice za izgled stranice na pretraživačima
+  + Mockup folder sadrži skice za izgled stranice na pretraživačima
     ~ pocetna.png,
     ~ o_nama.png,
     ~ kuhinje.png,
     ~ trpezarija.png,
      ~ sobe.png i 
    ~ kontakt.png
-+ Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima
+  + Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima
   ~ Mpocetna.png
   ~ Mo_nama.png,
   ~ Mkuhinje.png,
