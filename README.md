@@ -34,7 +34,7 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
    - trpezarija.png</br>    
    - sobe.png </br>
    - kontakt.png</br>
-   ** Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima**</br>
+   **Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima**</br>
    - Mpocetna.png</br>
    - Mo_nama.png</br>
    - Mkuhinje.png</br>
