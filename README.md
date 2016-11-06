@@ -15,7 +15,7 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
   + Koristeći media query-e napravila sam da postoji izgled i za mobilne uređaje
   + Implementirala sam 4 html forme
   + Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama
-**- Lista fajlova:** </br>
+- Lista fajlova: </br>
      
 **HTML folder sadrži html stranice:** </br>
    - naslovna.html </br>
