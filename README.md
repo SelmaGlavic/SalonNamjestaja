@@ -23,11 +23,11 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
    - trpezarija.html </br>
    - sobe.html </br>
    - kontakt.html </br>
-   ** CSS folder sadrži css stranice:** </br>
+   **CSS folder sadrži css stranice:** </br>
    - pozadina.css(pozadina prva za određene stranice) </br>
    - pozadina1.css (pozadina druga za određene stranice) </br>
    - stranica.css (css primjenjen na sve html stranice) </br>
-   ** Mockup folder sadrži skice za izgled stranice na pretraživačima** </br>
+   **Mockup folder sadrži skice za izgled stranice na pretraživačima** </br>
    - pocetna.png</br>
    - o_nama.png</br>
    - kuhinje.png</br>
