@@ -9,12 +9,12 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
 
 # Spirala 1
 
-Urađeno:
--Napravila sam skice kako bi svaka podstranica trebala izgledati na pretraživačima i mobilnim uređajima
--Sve su stranice responzivne i imaju grid-view izgled
--Koristeći media query-e napravila sam da postoji izgled i za mobilne uređaje
--Implementirala sam 4 html forme
--Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama
+Urađeno:<br />
+-Napravila sam skice kako bi svaka podstranica trebala izgledati na pretraživačima i mobilnim uređajima<br />
+-Sve su stranice responzivne i imaju grid-view izgled<br />
+-Koristeći media query-e napravila sam da postoji izgled i za mobilne uređaje<br />
+-Implementirala sam 4 html forme<br />
+-Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama<br />
 
 Lista fajlova:
 -HTML folder sadrži html stranice: 
