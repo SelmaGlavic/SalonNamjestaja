@@ -9,38 +9,38 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
 
 # Spirala 1
 
-Urađeno:<br />
+##Urađeno:<br />
 -Napravila sam skice kako bi svaka podstranica trebala izgledati na pretraživačima i mobilnim uređajima<br />
 -Sve su stranice responzivne i imaju grid-view izgled<br />
 -Koristeći media query-e napravila sam da postoji izgled i za mobilne uređaje<br />
 -Implementirala sam 4 html forme<br />
 -Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama<br />
-
-Lista fajlova:
--HTML folder sadrži html stranice: 
-  naslovna.html, 
-  o_nama.html, 
-  kuhinje.html, 
-  trpezarija.html, 
-  sobe.html i 
-  kontakt.html.
--CSS folder sadrži css stranice:
-  pozadina.css(pozadina prva za određene stranice)
-  pozadina1.css (pozadina druga za određene stranice) i
-  stranica.css (css primjenjen na sve html stranice).
-  
--Mockup folder sadrži skice za izgled stranice na pretraživačima
-  pocetna.png,
-  o_nama.png,
-  kuhinje.png,
-  trpezarija.png,
-  sobe.png i 
-  kontakt.png
-  
--Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima
-  Mpocetna.png
-  Mo_nama.png,
-  Mkuhinje.png,
-  Mtrpezarija.png,
-  Msobe.png i 
-  Mkontakt.png
+<br />
+##Lista fajlova:<br />
+-HTML folder sadrži html stranice: <br />
+  naslovna.html,<br /> 
+  o_nama.html, <br />
+  kuhinje.html,<br /> 
+  trpezarija.html, <br />
+  sobe.html i <br />
+  kontakt.html.<br />
+-CSS folder sadrži css stranice:<br />
+  pozadina.css(pozadina prva za određene stranice)<br />
+  pozadina1.css (pozadina druga za određene stranice) i<br />
+  stranica.css (css primjenjen na sve html stranice).<br />
+  <br />
+-Mockup folder sadrži skice za izgled stranice na pretraživačima<br />
+  pocetna.png,<br />
+  o_nama.png,<br />
+  kuhinje.png,<br />
+  trpezarija.png,<br />
+  sobe.png i <br />
+  kontakt.png<br />
+  <br />
+-Mockup mobile sadrži skice za izgled stranice na mobilnim uređajima<br />
+  Mpocetna.png<br />
+  Mo_nama.png,<br />
+  Mkuhinje.png,<br />
+  Mtrpezarija.png,<br />
+  Msobe.png i <br />
+  Mkontakt.png<br />
