@@ -16,13 +16,13 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
   + Implementirala sam 4 html forme
   + Implementirala sam verktikalni meni koji je vidljiv na svim podstranicama
 - Lista fajlova: 
-  + HTML folder sadrži html stranice: 
-   ~ naslovna.html 
-    ~ o_nama.html
-    ~ kuhinje.html 
-    ~ trpezarija.html 
-    ~ sobe.html 
-    ~ kontakt.html
+  + HTML folder sadrži html stranice: </br>
+   - naslovna.html </br>
+   - o_nama.html</br>
+   - kuhinje.html </br>
+   - trpezarija.html </br>
+   - sobe.html </br>
+   - kontakt.html
   + CSS folder sadrži css stranice:
     ~ pozadina.css(pozadina prva za određene stranice)
     ~ pozadina1.css (pozadina druga za određene stranice) i
