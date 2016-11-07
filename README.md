@@ -42,3 +42,4 @@ Stranica salona namještaja daje uvid u namještaj koji salon ima u ponudi kao i
    - Mtrpezarija.png</br>
    - Msobe.png  </br>
    - Mkontakt.png</br>
+**Slike folder** sadrži slike potrebne za stranicu
